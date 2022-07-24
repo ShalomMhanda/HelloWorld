@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="shalom_intro">Hello World! Welcome to New Beginnings with Shalom!</string>
+    <string name="buttonText">Say Hello</string>
+</resources>
